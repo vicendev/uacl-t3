@@ -1,0 +1,125 @@
+# Entornos virtuales
+venv/
+.env/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Compilación de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caché de IPython
+.ipynb_checkpoints
+
+# Archivos de configuración del sistema
+.DS_Store
+Thumbs.db
+*.directory
+
+# Archivos de registro
+*.log
+*.out
+*.err
+
+# Directorios de construcción de C extensions
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Distribución empaquetada
+*.manifest
+*.spec
+
+# Archivos de prueba y cobertura
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+.tox/
+.nox/
+.cache/
+nosetests.xml
+*.coveragerc
+*.codecov.yml
+
+# Archivos de documentación
+docs/_build/
+*.rst
+
+# Archivos generados por editores y entornos de desarrollo
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de configuración de Jupyter Notebook
+.ipynb_checkpoints/
+.jupyter/
+
+# Archivos de entornos Conda
+*.conda
+*.condarc
+*.env.yaml
+*.env.yml
+
+# Archivos de mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Archivos de Pyre (Type checker)
+.pyre/
+
+# Archivos de PDM (Python Dependency Manager)
+__pypackages__/
+
+# Archivos de editor de texto
+*.swp
+*.swo
+
+# Archivos de SQLite y bases de datos locales
+*.sqlite3
+*.db
+
+# Archivos de configuración de pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivos de configuración de virtualenvwrapper
+.env
+.python-version
+
+# Archivos de AWS, Azure, y GCP
+.aws/
+.gcloud/
+.azure/
+
+# Archivos sensibles o de configuración local
+.env.*
+*.secrets
+*.local
+*.key
+
+# Archivos de configuración de Flask
+instance/
+.webassets-cache
