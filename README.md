@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# uacl-t3
-trabajos para el trimestre 3
-=======
 # Fundamentos de BBDD - UACL
 ## Repositorio - trabajos de la universidad Tercer Trimestre
 
@@ -17,4 +13,3 @@ trabajos para el trimestre 3
 `python ./01-app-trips-calc/main.py`
 
 ---
->>>>>>> c49d4c0 (feature: se agrega app consola calculadora de viajes)
